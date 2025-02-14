@@ -1,0 +1,649 @@
+[
+    {
+      "category": "Speakers",
+      "products": [
+        {
+            "id": 1,
+            "name": "JBL Partybox 310 ",
+            "price": "34,990 ",
+            "image": "https://m.media-amazon.com/images/I/71isiSO138L._AC_UY327_FMwebp_QL65_.jpg" },
+        { "id": 2,
+                    "name": "Zebronics ZEB-COUNTY 3W Wireless ",
+                    "price": "399 ",
+                    "image": "https://m.media-amazon.com/images/I/71wAXhzCmnS._AC_UY327_FMwebp_QL65_.jpg" },
+                    {
+                        "id": 3,
+                        "name": "boAt Stone 352 Bluetooth Speaker",
+                        "price": "1,499 ",
+                        "image": "https://m.media-amazon.com/images/I/81Dl7qzd40L._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 4,
+                        "name": "boAt Aavante Bar 610 ",
+                        "price":" 1,699",
+                        "image": "https://m.media-amazon.com/images/I/51SFh0i5HHL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 5,
+                        "name": "boAt Stone 352 Pro ",
+                        "price": "1,799 ",
+                        "image": "https://m.media-amazon.com/images/I/71o6CU8MqVL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 6,
+                        "name": "JBL Go 3, Wireless Ultra",
+                        "price": "2,298 ",
+                        "image": "https://m.media-amazon.com/images/I/51waOv47fqL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 7,
+                        "name": "Mivi Play Bluetooth Speaker ",
+                        "price":"699 ",
+                        "image": "https://m.media-amazon.com/images/I/61UJnlIHF9S._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 8,
+                        "name": "boAt Stone 193 Pro ",
+                        "price": "999 ",
+                        "image": "https://m.media-amazon.com/images/I/81M4DVkAbPL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 9,
+                        "name": "JBL Go 3, Wireless Ultra",
+                        "price": "2,298 ",
+                        "image": "https://m.media-amazon.com/images/I/51WB9Dgo2iL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 10,
+                        "name": "E GATE 222 ",
+                        "price": "590 ",
+                        "image": "https://m.media-amazon.com/images/I/712gez4H03L._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 11,
+                        "name": "boAt Stone 580 ",
+                        "price": "1,499 ",
+                        "image": "https://m.media-amazon.com/images/I/81ocVi-mglL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 12,
+                        "name": "JBL Flip 5 Wireless Portable ",
+                        "price":"5,499 ",
+                        "image": "https://m.media-amazon.com/images/I/71Xyg9SwRwL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 13,
+                        "name": "boAt Stone 650",
+                        "price": "1,498",
+                        "image": "https://m.media-amazon.com/images/I/71rY4KQ5EtL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 14,
+                        "name": "Sony SRS-XB100",
+                        "price": "3,499",
+                        "image": "https://m.media-amazon.com/images/I/31Vd65wlEtL._SX300_SY300_QL70_FMwebp_.jpg"
+                      },
+                      {
+                        "id": 15,
+                        "name": "Sony HT-S20R Real 5.1ch ",
+                        "price": "14,600 ",
+                        "image": "https://m.media-amazon.com/images/I/71h7fLNEQPL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 16,
+                        "name": "SONY New Launch ULT Field 1  ",
+                        "price": "8,988 ",
+                        "image": "https://m.media-amazon.com/images/I/71mq+2EjRfL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 17,
+                        "name": "Sony New SA-D40M2 4.1ch Home Theatre ",
+                        "price":"9,988",
+                        "image": "https://m.media-amazon.com/images/I/81cKrOHbENL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 18,
+                        "name": "Sony MHC-V13 High-Power Party Speaker",
+                        "price": "18,400 ",
+                        "image": "https://m.media-amazon.com/images/I/71gqA-vsCsL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 19,
+                        "name": "SONY MHC-V43D High Power Party Speaker",
+                        "price": "28,999 ",
+                        "image": "https://m.media-amazon.com/images/I/71djbDBVznL._AC_UY327_FMwebp_QL65_.jpg"
+                      },
+                      {
+                        "id": 20,
+                        "name": "Sony SRS-XV800 X-Series Wireless Portable Bluetooth ",
+                        "price": "39,450 ",
+                        "image": "https://m.media-amazon.com/images/I/810Q0+UhiTL._AC_UY327_FMwebp_QL65_.jpg"
+                      }
+      ]
+    },
+    {
+        "category": "Earbuds",
+        "products": [
+            {
+                "id": "001",
+                "name": "Samsung Galaxy in Ear Buds 3 Pro ",
+                "price":"19,999",
+                "image": "https://m.media-amazon.com/images/I/71+BBZBBT2L._SX679_.jpg"
+              },
+              {
+                "id": "002",
+                "name": "Samsung Galaxy Buds 2 pro",
+                "price": "7,999",
+                "image": "https://media.croma.com/image/upload/v1661778655/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/260679_pk8i36.png"
+              },
+              {
+                "id": "003",
+                "name": "OnePlus Nord Buds 3 ",
+                "price": "2,299",
+                "image": "https://hi-tech.ua/wp-content/uploads/2024/07/oneplus-nord-buds-3-pro.jpg"
+              },
+              {
+                "id": "004",
+                "name": "OnePlus Buds Pro 3",
+                "price": "10,989",
+                "image": "https://m.media-amazon.com/images/I/61dVOVxHn3L._SX679_.jpg"
+              },
+              {
+                "id": "005",
+                "name": "Sony WF-1000XM5",
+                "brand": "Sony",
+                "price": "19,990",
+                "image": "https://m.media-amazon.com/images/I/31OY5Kup6aL._SX300_SY300_QL70_FMwebp_.jpg"
+              },
+              {
+                "id": "006",
+                "name": "Sony WF-C700N",
+                "price": "6,990",
+                "image": "https://m.media-amazon.com/images/I/21E08UeDMNL._SX300_SY300_QL70_FMwebp_.jpg"
+              },
+              {
+                "id": "007",
+                "name": "Noise Newly Launched Buds N1 Pro  ",
+                "price": "1,799",
+                "image": "https://m.media-amazon.com/images/I/31ouO2zK6hL._SX300_SY300_QL70_FMwebp_.jpg"
+              },
+              {
+                "id": "008",
+                "name": "Noise Newly Launched Buds Trance 2",
+                "price": "1,099",
+                "image": "https://m.media-amazon.com/images/I/31L8ecSfhlL._SX300_SY300_QL70_FMwebp_.jpg"
+              },
+              {
+                "id": "009",
+                "name": "realme Buds Air 6 TWS",
+                "price":" 2,999",
+                "image": "https://m.media-amazon.com/images/I/41wk76IxRNL._SX300_SY300_QL70_FMwebp_.jpg"
+              },
+              {
+                "id": "010",
+                "name": "realme Buds T110 with Ai ",
+                "price": "1,479",
+                "image": "https://m.media-amazon.com/images/I/315+DXHZMEL._SY300_SX300_.jpg"
+              },
+              {
+                "id": "011",
+                "name": "realme Buds T310",
+                "price": "2,199",
+                "image": "https://m.media-amazon.com/images/I/61kDfm8FD7L._SX679_.jpg"
+              },
+              {
+                "id": "012",
+                "name": "OnePlus Nord Buds 2r",
+                "price": "6,499",
+                "image": "https://th.bing.com/th/id/OIP.6ZyWbgByUm2YQvvDrk3sKwHaHa?rs=1&pid=ImgDetMain"
+              },
+              {
+                "id": "013",
+                "name": "Apple AirPods 2nd Generation",
+                "price": "14,990",
+                "image": "https://www.epic.com.mt/wp-content/uploads/2023/03/AirPods_Pro_2nd-Gen-1.png"
+              },
+              {
+                "id": "014",
+                "name": "Apple AirPods 4",
+                "brand": "Apple",
+                "price": "12,900",
+                "image": "https://m.media-amazon.com/images/I/61oCISLE+PL._SL1500_.jpg"
+              },
+             
+              {
+                "id": "017",
+                "name": "Boat Airdopes 141",
+                "brand": "Boat",
+                "price": "1,499",
+                "image": "https://th.bing.com/th/id/OIP.QtZuMfDoKMTcbJje-pldbAAAAA?rs=1&pid=ImgDetMain"
+              },
+              {
+                "id": "018",
+                "name": "Boat Airdopes 441",
+                "brand": "Boat",
+                "price": "2,499",
+                "image": "https://media.croma.com/image/upload/v1639140103/Croma%20Assets/Entertainment/Wireless%20Earbuds/Images/246113_p6zbjs.png"
+              },
+              {
+                "id": "019",
+                "name": "Boat Airdopes 161",
+                "brand": "Boat",
+                "price": "1,399",
+                "image": "https://th.bing.com/th/id/R.bf585042a12e5593d49bd09869128fd0?rik=fRY%2bTVMMEECrFg&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0057%2f8938%2f4802%2fproducts%2fmain_blue_a80b6882-1247-439d-a17b-1c87ed4fa7c8.png%3fv%3d1641206192&ehk=f2IyJ%2fz0ejIrolsdIUl6O7iexj7H7psi4Mk6hbOj0qo%3d&risl=&pid=ImgRaw&r=0"
+              },
+              {
+                "id": "020",
+                "name": "Boat Airdopes 621",
+                "brand": "Boat",
+                "price": "2,999",
+                "image": "https://buy.guru/wp-content/uploads/2021/03/boAt-Airdopes-621-Bluetooth-Truly-Wireless-Earbuds.jpg"
+              },
+              {
+                "id": "021",
+                "name": "Boat Airdopes 381",
+                "brand": "Boat",
+                "price": "1,999",
+                "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3c53a1e3-bffe-4c6d-b102-cc409c1bfe71_1024x1024.png?v=1631688082"
+              },
+              {
+                "id": "022",
+                "name": "Boat Airdopes 511V2",
+                "brand": "Boat",
+                "price": "2,199",
+                "image": "https://images.fonearena.com/blog/wp-content/uploads/2020/06/boAt-Airdopes-511V2-1-1024x895.jpg"
+              },
+              {
+                "id": "023",
+                "name": "Boat Airdopes 131",
+                "brand": "Boat",
+                "price": "1,099",
+                "image": "https://media.croma.com/image/upload/v1669124819/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/261792_0_fitnej.png"
+              },
+              {
+                "id": "024",
+                "name": "Boat Airdopes 601 ANC",
+                "brand": "Boat",
+                "price": "6,999",
+                "image": "https://vlebazaar.in/image/cache/catalog/-boAt-Airdopes-601-ANC-with-Swipe-Controls-and-28-Hours-Playtime-Blueto/-boAt-Airdopes-601-ANC-with-Swipe-Controls-and-28-Hours-Playtime-Bluetooth-Heads-550x550h.jpg"
+              }
+        ]
+      },
+      
+        {
+          "category": "Smartwatch",
+          "products": [
+            {
+              "id": 1,
+              "name": "Apple Watch Series 10 GPS",
+              "price": "₹41,900",
+              "image": "https://m.media-amazon.com/images/I/81kq5wkaqAL._SX679_.jpg"
+            },
+            {
+              "id": 2,
+              "name": "Apple Watch SE GPS",
+              "price": "₹29,900",
+              "image": "https://m.media-amazon.com/images/I/81hn96VsteL._SX679_.jpg"
+            },
+            {
+              "id": 3,
+              "name": "Noise Origin Smart Watch",
+              "price": "₹5,999",
+              "image": "https://m.media-amazon.com/images/I/71KkgWNagTL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 4,
+              "name": "Noise ColorFit Ultra 3",
+              "price": "₹2,799",
+              "image": "https://m.media-amazon.com/images/I/71Vx928Yx2L._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 5,
+              "name": "Noise Pulse 2 Max",
+              "price": "₹1,099",
+              "image": "https://m.media-amazon.com/images/I/61GdCtUjrLL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 6,
+              "name": "Noise Twist Round dial Smart Watch",
+              "price": "₹1,299",
+              "image": "https://m.media-amazon.com/images/I/61TapeOXotL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 7,
+              "name": "Noise Twist Go Smart Watch",
+              "price": "₹1,298",
+              "image": "https://m.media-amazon.com/images/I/61BoaOUf+KL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 8,
+              "name": "boAt Wave Sigma 3",
+              "price": "₹1,099",
+              "image": "https://m.media-amazon.com/images/I/61Fwv0TtQnL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 9,
+              "name": "boAt Storm Call 3",
+              "price": "₹1,049",
+              "image": "https://m.media-amazon.com/images/I/61A9rFdBjtL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 10,
+              "name": "boAt Lunar Orb",
+              "price": "₹1,699",
+              "image": "https://m.media-amazon.com/images/I/71GejfiqLiL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 11,
+              "name": "NoiseFit Halo",
+              "price": "₹2,399",
+              "image": "https://m.media-amazon.com/images/I/71NZuTjNqCL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 12,
+              "name": "Fire-Boltt Ninja Call Pro Max",
+              "price": "₹1,099",
+              "image": "https://m.media-amazon.com/images/I/61nqDRdzBRL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 13,
+              "name": "Fire-Boltt Phoenix Smart Watch",
+              "price": "₹1,099",
+              "image": "https://m.media-amazon.com/images/I/61y2VVWcGBL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 14,
+              "name": "Fastrack New Astor Fs1 Pro",
+              "price": "₹1,899",
+              "image": "https://m.media-amazon.com/images/I/71yYUKOQEeL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 15,
+              "name": "Redmi Watch 5 Active BT",
+              "price": "₹2,599",
+              "image": "https://m.media-amazon.com/images/I/61WHvwn1+aL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 16,
+              "name": "Redmi Watch 5 Lite",
+              "price": "₹3,499",
+              "image": "https://m.media-amazon.com/images/I/71qq-p26D4L._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 17,
+              "name": "Redmi Watch 3 Active BT",
+              "price": "₹2,099",
+              "image": "https://m.media-amazon.com/images/I/618KRdJAV9L._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 18,
+              "name": "Xiaomi Redmi Smart Watch 3",
+              "price": "₹5,990",
+              "image": "https://m.media-amazon.com/images/I/61hgWCFnzVL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 19,
+              "name": "Noise Twist Go Round dial",
+              "price": "₹1,299",
+              "image": "https://m.media-amazon.com/images/I/61Y6E3Y9heL._AC_UY327_FMwebp_QL65_.jpg"
+            },
+            {
+              "id": 20,
+              "name": "Bouncefit D20 Y68 Fitness Band",
+              "price": "₹488",
+              "image": "https://m.media-amazon.com/images/I/41aZEFf+7LL._SY300_SX300_.jpg"
+            }
+          ]
+        },
+      {
+        "category": "Smartphones",
+        "products": [
+          {
+            "id": "001",
+            "name": "Samsung Galaxy S23 Ultra 5G AI",
+            "price": "₹71,999",
+            "image": "https://m.media-amazon.com/images/I/71lD7eGdW-L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "002",
+            "name": "iQOO Z9x 5G ",
+            "price": "₹13,499",
+            "image": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "003",
+            "name": "Samsung Galaxy M05 ",
+            "price": "₹6,499 ",
+            "image": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "004",
+            "name": "realme NARZO 70x 5G",
+            "price": "₹13,998",
+            "image": "https://m.media-amazon.com/images/I/71w-mmKgIfL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "005",
+            "name": "POCO C61 Ethereal",
+            "price": "₹5,999",
+            "image": "https://m.media-amazon.com/images/I/712tqhtIw1L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "006",
+            "name": "Redmi A4 5G",
+            "price": "₹8,299 ",
+            "image": "https://m.media-amazon.com/images/I/81BGKLI+cWL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "007",
+            "name": "realme NARZO N61",
+            "price": "₹8,498",
+            "image": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "008",
+            "name": "Redmi A4 5G ",
+            "price": "₹8,299",
+            "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "009",
+            "name": "Samsung Galaxy M15 5G Prime Edition ",
+            "price": "₹211,999 ",
+            "image": "https://m.media-amazon.com/images/I/81LJaRu0cZL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "010",
+            "name": "SOnePlus Nord CE 3 Lite 5G",
+            "price": "₹15,935",
+            "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "011",
+            "name": "OnePlus 12R",
+            "price": "₹39,999",
+            "image": "https://m.media-amazon.com/images/I/71c3EH8FoWL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "012",
+            "name": "OnePlus Nord CE4 Lite 5G",
+            "price": "₹17,998",
+            "image": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "013",
+            "name": "Motorola G45 5G",
+            "price": "₹11,974",
+            "image": "https://m.media-amazon.com/images/I/81dl4dQY3BL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "014",
+            "name": "realme NARZO N61",
+            "price": "₹7,498",
+            "image": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "015",
+            "name": "Samsung Galaxy M15 5G Prime Edition",
+            "price": "₹11,999",
+            "image": "https://m.media-amazon.com/images/I/81oKOk65TgL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "016",
+            "name": "Samsung Galaxy M35 5G ",
+            "price": "₹21,499 ",
+            "image": "https://m.media-amazon.com/images/I/8189mzscM6L._AC_UY327_FMwebp_QL65_.jpg "
+          },
+          {
+            "id": "017",
+            "name": "OnePlus Nord 4 5G ",
+            "price": "₹28,999",
+            "image": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "018",
+            "name": "Apple iPhone 13 (128GB)o",
+            "price": "₹43,499",
+            "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "019",
+            "name": "Redmi 13 5G, Orchid Pink",
+            "price": "₹13,299",
+            "image": "https://m.media-amazon.com/images/I/81Q9jpYOFdL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "020",
+            "name": "Redmi Note 13 5G",
+            "price": "₹15,200",
+            "image": "https://m.media-amazon.com/images/I/71MGSe0lcML._AC_UY327_FMwebp_QL65_.jpg"
+          }
+        ]
+      },
+      {
+        "category": "televisions",
+        "products":[
+        {
+          "id": 1,
+          "name": "Redmi Xiaomi 138 cm (55 inch) F Series UHD 4K Smart LED Fire TV L55MA-FVIN (Black)",
+          "image": "https://m.media-amazon.com/images/I/81YiTZ1CZDL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "34,999"
+        },
+        {
+          "id": 2,
+          "name": "Samsung 80 cm (32 inches) HD Ready Smart LED TV UA32T4380AKXXL (Glossy Black)",
+          "image": "https://m.media-amazon.com/images/I/71JQ3kUrR9L._AC_UY327_FMwebp_QL65_.jpg",
+          "price":"14,490"
+        },
+        {
+          "id": 3,
+          "name": "Acer 109 cm (43 inches) I Pro Series Full HD Smart LED Google TV with Android 14 (Black) | 16GB Storage ",
+          "image": "https://m.media-amazon.com/images/I/71z6h0pIzyL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "18,999 "
+        },
+        {
+          "id": 4,
+          "name": "Xiaomi Smart TV A 80 cm (32) HD Ready Smart Google LED TV L32MA-AIN (Black)",
+          "image": "https://m.media-amazon.com/images/I/81u+lUSZRDL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "11,990 "
+        },
+        {
+          "id": 5,
+          "name": "VW 80 cm (32 inches) Playwall Frameless Series HD Ready Android Smart LED TV VW32F5 (Black)",
+          "image": "https://m.media-amazon.com/images/I/71tKQEE8ayL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "7,499 "
+        },
+        {
+          "id": 6,
+          "name": "TCL 79.97 cm (32 inches) Metallic Bezel-Less HD Ready Smart Android LED TV 32L4B (Black)",
+          "image": "https://m.media-amazon.com/images/I/71gdqt4MtJL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "8,990 "
+        },
+        {
+          "id": 7,
+          "name": "VW 80 cm (32 inches) Frameless Series HD Ready Android Smart LED TV VW32S (Black)",
+          "image": "https://m.media-amazon.com/images/I/717oSOB4hCL._AC_UY327_FMwebp_QL65_.jpg",
+          "price":"7,499 "
+        },
+        {
+          "id": 8,
+          "name": "Redmi Xiaomi 80 cm (32 inches) F Series HD Ready Smart LED Fire TV L32MA-FVIN (Black)",
+          "image": "https://m.media-amazon.com/images/I/71MwDnn-ZaL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "11,499 "
+        },
+        {
+          "id": 9,
+          "name": "VW 109 cm (43 inches) Playwall Frameless Series Full HD Android Smart LED TV VW43F2 (Black)",
+          "image": "https://m.media-amazon.com/images/I/71RMJHjJa0L._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "14,499 "
+        },
+        {
+          "id": 10,
+          "name": "Acer 80 cm (32 inches) I Pro Series HD Ready Smart LED Google TV AR32HDIGU2841AT (Black)",
+          "image": "https://m.media-amazon.com/images/I/714ccOfBThL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "10,499 "
+        },
+        {
+          "id": 11,
+          "name": "Acer 139 cm (55 inches) Super Series 4K Ultra HD Smart QLED Google TV with Android 14 (Black) ",
+          "image": "https://m.media-amazon.com/images/I/712MJI-diwL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "39,999"
+        },
+        {
+          "id": 12,
+          "name": "MI 108 cm (43 inches) A Series Full HD Smart Google LED TV L43MA-AFIN (Black)",
+          "image": "https://m.media-amazon.com/images/I/811DfIJ1-pL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "22,990 "
+        },
+        {
+          "id": 13,
+          "name": "TCL 79.97 cm (32 inches) Metallic Bezel-Less S Series FHD Smart Android LED TV 32S5500AF (Black)",
+          "image": "https://m.media-amazon.com/images/I/71qonh3XFPL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "9,990"
+        },
+        {
+          "id": 14,
+          "name": "LG 80 cm (32 inches) HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray)",
+          "image": "https://m.media-amazon.com/images/I/81Tfy967TKL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "13,990"
+        },
+        {
+          "id": 15,
+          "name": "TCL 101 cm (40 inches) Metallic Bezel-Less Full HD Smart Android LED TV 40L4B (Black)",
+          "image": "https://m.media-amazon.com/images/I/71hO381JkxL._AC_UY327_FMwebp_QL65_.jpg",
+          "price":"15,990 "
+        },
+        {
+          "id": 16,
+          "name": "Acer 80 cm (32 inches) V Pro Series HD Ready Smart QLED Google TV with Android 14 (Black)",
+          "image": "https://m.media-amazon.com/images/I/81bMuryvgvL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "12,999"
+        },
+        {
+          "id": 17,
+          "name": "Samsung 108 cm (43 inches) Full HD Smart LED TV UA43T5450AKXXL (Black)",
+          "image": "https://m.media-amazon.com/images/I/71ax3phCOVL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "24,490"
+        },
+        {
+          "id": 18,
+          "name": "SKYWALL 81.28 cm (32 inches) HD Ready Smart LED TV 32SWELS-PRO (Black)",
+          "image": "https://m.media-amazon.com/images/I/71KVP1kQbyL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "6,999"
+        },
+        {
+          "id": 19,
+          "name": "Acer 100 cm (40 inches) I Pro Series Full HD Smart LED Google TV AR40FDIGU2841AT (Black)",
+          "image": "https://m.media-amazon.com/images/I/71+89DTymuL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "16,999"
+        },
+        {
+          "id": 20,
+          "name": "Xiaomi 108 cm (43 inches) A Pro 4K Dolby Vision Smart Google TV L43MA-AUIN (Black)",
+          "image": "https://m.media-amazon.com/images/I/71HI+VF6ZXL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": "24,999"
+        }
+      ]
+    }       
+      
+    ]
