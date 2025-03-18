@@ -7,9 +7,9 @@ function Mobiles() {
   const [Smartphones, setSmartphones] = useState([]);
   const dispatch = useDispatch(); // Create dispatch function
 
-  useEffect(() => {
+  useEffect(() => {~
     axios
-      .get("http://localhost:3000/api/Smartphones")
+      .get("/api/products/smartphones")
       .then((response) => setSmartphones(response.data))
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
@@ -31,7 +31,7 @@ function Mobiles() {
               className="w-full h-40 object-contain"
             />
             <h3 className="font-semibold text-black">{Smartphone.name}</h3>
-            <p className="text-lg text-black font-bold">{Smartphone.price}</p>
+            <p className="text-lg text-black font-bold">₹{Smartphone.price}</p>
 
             <div className="text-center">
               <button className="btn btn-sm bg-[#AFDBF5] m-2 border-black text-black font-semibold w-64 h-10 rounded-full hover:bg-blue-300">

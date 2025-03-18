@@ -12,7 +12,7 @@ const dispatch = useDispatch();
       try {
         setLoading(true);
         setError(false);
-        const response = await axios.get('http://localhost:3000/api/smartwatch');
+        const response = await axios.get('./api/products/smartwatch');
         setSmartwatches(response.data);
       } catch (error) {
         setError(true);
@@ -42,7 +42,7 @@ const dispatch = useDispatch();
       <div className="rounded-md border p-2 bg-white hover:bg-white" key={smartwatch.id}>
         <img src={smartwatch.image} alt={smartwatch.name} className="mx-auto m-1 h-48 w-full object-contain bg-white " />
         <h3 className="text-lg text-black font-semibold">{smartwatch.name}</h3>
-        <p className="text-black pl-4 mb-2 text-2xl font-extrabold">{smartwatch.price}</p>
+        <p className="text-black pl-4 mb-2 text-2xl font-extrabold">₹{smartwatch.price}</p>
          <div className="text-center">
               <button
                 className="btn btn-sm bg-[#AFDBF5] m-2 border-black text-black font-semibold w-64 h-10 rounded-full hover:bg-blue-300"

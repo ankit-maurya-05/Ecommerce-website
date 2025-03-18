@@ -276,49 +276,49 @@
             {
               "id": 1,
               "name": "Apple Watch Series 10 GPS",
-              "price": "₹41,900",
+              "price": "41,900",
               "image": "https://m.media-amazon.com/images/I/81kq5wkaqAL._SX679_.jpg"
             },
             {
               "id": 2,
               "name": "Apple Watch SE GPS",
-              "price": "₹29,900",
+              "price": "29,900",
               "image": "https://m.media-amazon.com/images/I/81hn96VsteL._SX679_.jpg"
             },
             {
               "id": 3,
               "name": "Noise Origin Smart Watch",
-              "price": "₹5,999",
+              "price": "5,999",
               "image": "https://m.media-amazon.com/images/I/71KkgWNagTL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 4,
               "name": "Noise ColorFit Ultra 3",
-              "price": "₹2,799",
+              "price": "2,799",
               "image": "https://m.media-amazon.com/images/I/71Vx928Yx2L._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 5,
               "name": "Noise Pulse 2 Max",
-              "price": "₹1,099",
+              "price": "1,099",
               "image": "https://m.media-amazon.com/images/I/61GdCtUjrLL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 6,
               "name": "Noise Twist Round dial Smart Watch",
-              "price": "₹1,299",
+              "price": "1,299",
               "image": "https://m.media-amazon.com/images/I/61TapeOXotL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 7,
               "name": "Noise Twist Go Smart Watch",
-              "price": "₹1,298",
+              "price": "1,298",
               "image": "https://m.media-amazon.com/images/I/61BoaOUf+KL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 8,
               "name": "boAt Wave Sigma 3",
-              "price": "₹1,099",
+              "price": "1,099",
               "image": "https://m.media-amazon.com/images/I/61Fwv0TtQnL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
@@ -330,67 +330,67 @@
             {
               "id": 10,
               "name": "boAt Lunar Orb",
-              "price": "₹1,699",
+              "price": "1,699",
               "image": "https://m.media-amazon.com/images/I/71GejfiqLiL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 11,
               "name": "NoiseFit Halo",
-              "price": "₹2,399",
+              "price": "2,399",
               "image": "https://m.media-amazon.com/images/I/71NZuTjNqCL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 12,
               "name": "Fire-Boltt Ninja Call Pro Max",
-              "price": "₹1,099",
+              "price": "1,099",
               "image": "https://m.media-amazon.com/images/I/61nqDRdzBRL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 13,
               "name": "Fire-Boltt Phoenix Smart Watch",
-              "price": "₹1,099",
+              "price": "1,099",
               "image": "https://m.media-amazon.com/images/I/61y2VVWcGBL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 14,
               "name": "Fastrack New Astor Fs1 Pro",
-              "price": "₹1,899",
+              "price": "1,899",
               "image": "https://m.media-amazon.com/images/I/71yYUKOQEeL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 15,
               "name": "Redmi Watch 5 Active BT",
-              "price": "₹2,599",
+              "price": "2,599",
               "image": "https://m.media-amazon.com/images/I/61WHvwn1+aL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 16,
               "name": "Redmi Watch 5 Lite",
-              "price": "₹3,499",
+              "price": "3,499",
               "image": "https://m.media-amazon.com/images/I/71qq-p26D4L._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 17,
               "name": "Redmi Watch 3 Active BT",
-              "price": "₹2,099",
+              "price": "2,099",
               "image": "https://m.media-amazon.com/images/I/618KRdJAV9L._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 18,
               "name": "Xiaomi Redmi Smart Watch 3",
-              "price": "₹5,990",
+              "price": "5,990",
               "image": "https://m.media-amazon.com/images/I/61hgWCFnzVL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 19,
               "name": "Noise Twist Go Round dial",
-              "price": "₹1,299",
+              "price": "1,299",
               "image": "https://m.media-amazon.com/images/I/61Y6E3Y9heL._AC_UY327_FMwebp_QL65_.jpg"
             },
             {
               "id": 20,
               "name": "Bouncefit D20 Y68 Fitness Band",
-              "price": "₹488",
+              "price": "488",
               "image": "https://m.media-amazon.com/images/I/41aZEFf+7LL._SY300_SX300_.jpg"
             }
           ]
@@ -401,121 +401,121 @@
           {
             "id": "001",
             "name": "Samsung Galaxy S23 Ultra 5G AI",
-            "price": "₹71,999",
+            "price": "71,999",
             "image": "https://m.media-amazon.com/images/I/71lD7eGdW-L._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "002",
             "name": "iQOO Z9x 5G ",
-            "price": "₹13,499",
+            "price": "13,499",
             "image": "https://m.media-amazon.com/images/I/61wHkeTOhWL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "003",
             "name": "Samsung Galaxy M05 ",
-            "price": "₹6,499 ",
+            "price": "6,499 ",
             "image": "https://m.media-amazon.com/images/I/81T3olLXpUL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "004",
             "name": "realme NARZO 70x 5G",
-            "price": "₹13,998",
+            "price": "13,998",
             "image": "https://m.media-amazon.com/images/I/71w-mmKgIfL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "005",
             "name": "POCO C61 Ethereal",
-            "price": "₹5,999",
+            "price": "5,999",
             "image": "https://m.media-amazon.com/images/I/712tqhtIw1L._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "006",
             "name": "Redmi A4 5G",
-            "price": "₹8,299 ",
+            "price": "8,299 ",
             "image": "https://m.media-amazon.com/images/I/81BGKLI+cWL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "007",
             "name": "realme NARZO N61",
-            "price": "₹8,498",
+            "price": "8,498",
             "image": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "008",
             "name": "Redmi A4 5G ",
-            "price": "₹8,299",
+            "price": "8,299",
             "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "009",
             "name": "Samsung Galaxy M15 5G Prime Edition ",
-            "price": "₹211,999 ",
+            "price": "211,999 ",
             "image": "https://m.media-amazon.com/images/I/81LJaRu0cZL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "010",
             "name": "SOnePlus Nord CE 3 Lite 5G",
-            "price": "₹15,935",
+            "price": "15,935",
             "image": "https://m.media-amazon.com/images/I/61LB+d0vheL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "011",
             "name": "OnePlus 12R",
-            "price": "₹39,999",
+            "price": "39,999",
             "image": "https://m.media-amazon.com/images/I/71c3EH8FoWL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "012",
             "name": "OnePlus Nord CE4 Lite 5G",
-            "price": "₹17,998",
+            "price": "17,998",
             "image": "https://m.media-amazon.com/images/I/61Io5-ojWUL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "013",
             "name": "Motorola G45 5G",
-            "price": "₹11,974",
+            "price": "11,974",
             "image": "https://m.media-amazon.com/images/I/81dl4dQY3BL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "014",
             "name": "realme NARZO N61",
-            "price": "₹7,498",
+            "price": "7,498",
             "image": "https://m.media-amazon.com/images/I/71r0Ysx+oVL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "015",
             "name": "Samsung Galaxy M15 5G Prime Edition",
-            "price": "₹11,999",
+            "price": "11,999",
             "image": "https://m.media-amazon.com/images/I/81oKOk65TgL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "016",
             "name": "Samsung Galaxy M35 5G ",
-            "price": "₹21,499 ",
+            "price": "21,499 ",
             "image": "https://m.media-amazon.com/images/I/8189mzscM6L._AC_UY327_FMwebp_QL65_.jpg "
           },
           {
             "id": "017",
             "name": "OnePlus Nord 4 5G ",
-            "price": "₹28,999",
+            "price": "28,999",
             "image": "https://m.media-amazon.com/images/I/616wnQmPQ-L._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "018",
             "name": "Apple iPhone 13 (128GB)o",
-            "price": "₹43,499",
+            "price": "43,499",
             "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "019",
             "name": "Redmi 13 5G, Orchid Pink",
-            "price": "₹13,299",
+            "price": "13,299",
             "image": "https://m.media-amazon.com/images/I/81Q9jpYOFdL._AC_UY327_FMwebp_QL65_.jpg"
           },
           {
             "id": "020",
             "name": "Redmi Note 13 5G",
-            "price": "₹15,200",
+            "price": "15,200",
             "image": "https://m.media-amazon.com/images/I/71MGSe0lcML._AC_UY327_FMwebp_QL65_.jpg"
           }
         ]

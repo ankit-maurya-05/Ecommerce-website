@@ -1,31 +1,29 @@
 import React, { useState } from 'react';
-
 import { Link, NavLink } from 'react-router-dom';
-import { IoSearchSharp, IoBagOutline } from "react-icons/io5";
 import { RiAccountCircleFill } from "react-icons/ri";
 import { FaBars } from "react-icons/fa6";
-import Loginmodal from '../Navitem/Loginmodal'; // Import your LoginModal component
 import { IoMdClose } from "react-icons/io";
 import Searchbar from '../searchitem/Searchbar';
 import { FaCartArrowDown } from "react-icons/fa";
 import { useSelector } from "react-redux";
 import { selectCartItemCount } from "../Featured/cartSlice"; 
-
+import AuthPage from '../authentication/AuthPage';
 
 
 
 function Header() {
   const [toggle, settoggle] = useState(true);
-  const [isModalOpen, setIsModalOpen] = useState(false); 
   const cartItemCount = useSelector(selectCartItemCount); // Get cart count
+  const [AuthPageOpen, setAuthPageOpen]= useState(false)
   
+  const authenticationPage = () =>{
+    setAuthPageOpen(!AuthPageOpen)
+  }
   const clickhandler = () => {
     settoggle(!toggle);
   };
 
-  const handleModal = () => {
-    setIsModalOpen(!isModalOpen);
-  };
+
 
   return (
     <>
@@ -107,8 +105,8 @@ function Header() {
           <div className='flex items-center space-x-4'>
            <Searchbar/>
 
-            <button onClick={handleModal} className='text-white hover:rounded-full hover:bg-[#AFDBF5] hover:text-black p-2 text-2xl'>
-              <RiAccountCircleFill />
+            <button onClick={authenticationPage} className='text-white hover:rounded-full hover:bg-[#AFDBF5] hover:text-black p-2 text-2xl'>
+              <AuthPage/>
             </button>
 
             <NavLink
@@ -129,14 +127,14 @@ function Header() {
     </NavLink>
 
 
-            <button className='lg:hidden hover:bg-[#AFDBF5] hover:rounded-full p-2 hover:px-4 text-white hover:text-black hover:font-bold' onClick={clickhandler}>
+            <button className='lg:hidden hover:bg-[#AFDBF5] text-white hover:rounded-full p-3 px-4 hover:text-black text-2xl' onClick={clickhandler}>
               {toggle ? <FaBars /> : <IoMdClose />}
             </button>
           </div>
         </div>
 
         {/* Mobile Navigation */}
-        <div className={`absolute w-full lg:hidden bg-[#AFDBF5] ${toggle ? 'hidden' : 'block'} p-4`}>
+        <div className={` relative w-full  lg:hidden bg-[#AFDBF5] ${toggle ? 'hidden' : 'block'} p-4`}>
           <ul className='space-y-4'>
             <li>
               <NavLink to="/" className='block p-2 rounded-full hover:border-2 hover:border-black text-black'>Home</NavLink>
@@ -160,8 +158,7 @@ function Header() {
         </div>
       </header>
 
-      {/* Login Modal */}
-      {isModalOpen && <Loginmodal />} {/* Show modal based on state */}
+      
     </>
   );
 }

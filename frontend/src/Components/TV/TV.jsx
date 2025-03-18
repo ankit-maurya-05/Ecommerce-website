@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react'
 import axios from 'axios'
-import image15 from '../Image/image15.png';
+import image15 from "../../../public/images/image15.png";
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../Featured/cartSlice';
 
@@ -10,12 +10,14 @@ function TV() {
  const [loading, setLoading] =useState(false)
  const [error, setError] = useState(false)
  const dispatch = useDispatch();
+
+ 
  useEffect(() => {
   ;(async () => {
     try {
       setLoading(true);
       setError(false);
-      const response = await axios.get('http://localhost:3000/api/televisions');
+      const response = await axios.get('./api/products/televisions');
       settelevisions(response.data);
     } catch (error) {
       setError(true);

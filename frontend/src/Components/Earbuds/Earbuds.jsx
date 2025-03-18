@@ -13,7 +13,7 @@ const dispatch = useDispatch(); // Create dispatch function
       try {
         setLoading(true);
         setError(false);
-        const response = await axios.get('http://localhost:3000/api/earbuds');
+        const response = await axios.get('./api/products/earbuds');
         setAirdops(response.data);
       } catch (error) {
         setError(true);

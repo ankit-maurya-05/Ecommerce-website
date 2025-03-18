@@ -13,7 +13,7 @@ import Earbuds from './Components/Earbuds/Earbuds.jsx';
 import Smartwatch from './Components/Smartwatchitem/Smartwatch.jsx';
 import Speakers from './Components/Speakersitem/Speakers.jsx';
 import TV from './Components/TV/TV.jsx';
-import Loginmodal from './Components/Navitem/Loginmodal.jsx';
+
 import Cart  from './Components/Addtocart/Cart.jsx'
 import {store} from './App/store.js'
 import { Provider } from 'react-redux';
@@ -28,7 +28,6 @@ const router = createBrowserRouter(
       <Route path='Smartwatch' element={<Smartwatch/>}/>
       <Route path='Speakers' element={<Speakers/>}/>
       <Route path='TV' element={<TV/>}/>
-      <Route path='Loginmodal' element={<Loginmodal/>}/>
       <Route path='Cart' element={<Cart/>}/>
       
     </Route>

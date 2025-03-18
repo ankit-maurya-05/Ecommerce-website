@@ -13,7 +13,7 @@ function Speakers() {
     try {
       setLoading(true);
       setError(false);
-      const response = await axios.get('http://localhost:3000/api/speakers');
+      const response = await axios.get('./api/products/speakers');
       setspeakers(response.data);
     } catch (error) {
       setError(true);
