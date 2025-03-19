@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ecommerce-frontend
+    env: node
+    plan: free
+    branch: main
+    buildCommand: "npm run build"
+    startCommand: "npm run start"
+    envVars:
+      - key: REACT_APP_API_URL
+        value: "https://your-api.com"
+    autoDeploy: true
